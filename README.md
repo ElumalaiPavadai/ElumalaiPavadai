@@ -28,10 +28,11 @@ I'm eager to collaborate on exciting drug discovery projects. Feel free to conne
 
 __Some of my work was featured on the cover of the journals__
 
-<img [1.jpg]" width="400" align="left">
-<img [2.jpg]" width="400" align="right"> 
-<img [3.jpg)" width="400" align="left">
-<img [4.gif]" width="400" align="right"> 
-
+<div style="display: flex; justify-content: space-around;"> 
+  <img src="images/1.jpg" alt="Image 1 Description" width="300">
+  <img src="images/2.jpg" alt="Image 2 Description" width="300">
+  <img src="images/3.jpg" alt="Image 3 Description" width="300">
+  <img src="images/4.gif" alt="Image 4 Description" width="300">
+</div>
 
 
