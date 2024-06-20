@@ -1,7 +1,7 @@
 
 # **Elumalai Pavadai, Ph.D.**
 
-__Expertise: Computational Chemistry | Drug Design | Cheminformatics | Machine Learning | Bioinformatics | Data Science | Scientific Programming | Computational Biophysics__
+### __Expertise: Computational Chemistry | Drug Design | Cheminformatics | Machine Learning | Bioinformatics | Data Science | Scientific Programming | Computational Biophysics__
 
 Results-oriented Computational Drug Discovery Scientist with 10+ years of experience in leveraging computational approaches to accelerate the drug discovery process. Proven track record in applying computational chemistry, cheminformatics, and machine learning, Bioinformatics techniques to identify promising drug candidates and optimize lead compounds. Passionate about utilizing cutting-edge technologies to tackle complex challenges in drug discovery and development
 
@@ -17,11 +17,11 @@ Data Analysis and Visualization: Adept at processing and analyzing large-scale b
 
 Scientific Programming: Fluent in Python,and Bash scripting for automating tasks, developing workflows, and analyzing data. Experience with cloud computing environments and high-performance computing clusters.
 
-__Publicaions:__
+### __Publicaions:__
 
 You can find my publications on Google Scholar https://scholar.google.co.za/citations?user=JOdUTHMAAAAJ&hl=en
 
-__Let's Connect!__
+### __Let's Connect!__
 
 I'm eager to collaborate on exciting drug discovery projects. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/elumalai-pavadai/
 
