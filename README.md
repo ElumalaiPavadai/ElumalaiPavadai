@@ -3,7 +3,6 @@
 
 __Expertise: Computational Chemistry | Drug Design | Cheminformatics | Machine Learning | Bioinformatics | Data Science | Scientific Programming | Computational Biophysics__
 
-
 Results-oriented Computational Drug Discovery Scientist with 10+ years of experience in leveraging computational approaches to accelerate the drug discovery process. Proven track record in applying computational chemistry, cheminformatics, and machine learning, Bioinformatics techniques to identify promising drug candidates and optimize lead compounds. Passionate about utilizing cutting-edge technologies to tackle complex challenges in drug discovery and development
 
 __Skills and Proficiencies__
@@ -17,7 +16,6 @@ Machine Learning: Skilled in applying machine learning algorithms (e.g., random 
 Data Analysis and Visualization: Adept at processing and analyzing large-scale biological and chemical datasets. Proficient in data visualization tools like matplotlib, plotly, seaborn to communicate findings effectively.
 
 Scientific Programming: Fluent in Python,and Bash scripting for automating tasks, developing workflows, and analyzing data. Experience with cloud computing environments and high-performance computing clusters.
-Experience
 
 __Publicaions:__
 
