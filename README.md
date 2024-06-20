@@ -28,10 +28,10 @@ I'm eager to collaborate on exciting drug discovery projects. Feel free to conne
 
 __Some of my work was featured on the cover of the journals__
 
-<img src="[path/to/image1.jpg](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/0ffaa43d-fc88-4be5-b420-41e2a2f3dbf3)" width="400" align="left">
-<img src="[path/to/image2.jpg](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/f41bb664-90ae-4990-a556-06c47c00180e)" width="400" align="right"> 
-<img src="[path/to/image1.jpg](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/eaf8e911-8fea-47ed-860c-c3d3291eb6bc)" width="400" align="left">
-<img src="[path/to/image2.jpg](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/67dc90f1-469e-4d3f-b74f-140ffb2ede43)" width="400" align="right"> 
+<img [1.jpg]" width="400" align="left">
+<img [2.jpg]" width="400" align="right"> 
+<img [3.jpg)" width="400" align="left">
+<img [4.gif]" width="400" align="right"> 
 
 
 
