@@ -24,3 +24,17 @@ You can find my publications on Google Scholar https://scholar.google.co.za/cita
 __Let's Connect!__
 
 I'm eager to collaborate on exciting drug discovery projects. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/elumalai-pavadai/
+
+
+__Some of my work was featured on the cover of the journals__
+
+![jcisd8 2016 56 issue-3 largecover](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/0ffaa43d-fc88-4be5-b420-41e2a2f3dbf3)
+
+![Get](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/f41bb664-90ae-4990-a556-06c47c00180e)
+
+
+![graphical-abstract](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/eaf8e911-8fea-47ed-860c-c3d3291eb6bc)
+
+![1-s2 0-S0003986121X00288-cov200h](https://github.com/elumalaipavadai/elumalaipavadai/assets/165169988/67dc90f1-469e-4d3f-b74f-140ffb2ede43)
+
+
