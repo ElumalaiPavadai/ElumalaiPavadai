@@ -1,5 +1,5 @@
 
-# **Elumalai Pavadai, Ph.D**
+# **Elumalai Pavadai, Ph.D.**
 
 __Expertise: Computational Chemistry | Drug Design | Cheminformatics | Machine Learning | Bioinformatics | Data Science | Scientific Programming__
 
@@ -8,19 +8,20 @@ Results-oriented Computational Drug Discovery Scientist with 10+ years of experi
 
 __Skills and Proficiencies__
 
-__Computational Chemistry:__ Extensive experience in molecular modeling, dockings, simulations, ligand and strcuture-based drug discovery approaches. Proficient in utilizing various software packages such as Schrödinger, MOE, Discovery Studio, etc.
+Computational Chemistry: Extensive experience in molecular modeling, dockings, simulations, ligand and strcuture-based drug discovery approaches. Proficient in utilizing various software packages such as Schrödinger, MOE, Discovery Studio, etc.
 
-__Cheminformatics:__ Expertise in QSAR modeling, virtual screening, chemical space analysis, and molecular descriptor calculation. Strong understanding of chemical databases and data mining techniques.
+Cheminformatics: Expertise in QSAR modeling, virtual screening, chemical space analysis, and molecular descriptor calculation. Strong understanding of chemical databases and data mining techniques.
 
-__Machine Learning:__ Skilled in applying machine learning algorithms (e.g., random forests, support vector machines, neural networks) to predict molecular properties, build predictive models, and guide drug design decisions.
+Machine Learning: Skilled in applying machine learning algorithms (e.g., random forests, support vector machines, neural networks) to predict molecular properties, build predictive models, and guide drug design decisions.
 
-__Data Analysis and Visualization:__ Adept at processing and analyzing large-scale biological and chemical datasets. Proficient in data visualization tools like matplotlib, plotly, seaborn to communicate findings effectively.
+Data Analysis and Visualization: Adept at processing and analyzing large-scale biological and chemical datasets. Proficient in data visualization tools like matplotlib, plotly, seaborn to communicate findings effectively.
 
-__Scientific Programming:__ Fluent in Python,and Bash scripting for automating tasks, developing workflows, and analyzing data. Experience with cloud computing environments and high-performance computing clusters.
+Scientific Programming: Fluent in Python,and Bash scripting for automating tasks, developing workflows, and analyzing data. Experience with cloud computing environments and high-performance computing clusters.
 Experience
 
 __Publicaions:__
-You can find my publication on Google Scholar https://scholar.google.co.za/citations?user=JOdUTHMAAAAJ&hl=en
+
+You can find my publications on Google Scholar https://scholar.google.co.za/citations?user=JOdUTHMAAAAJ&hl=en
 
 __Let's Connect!__
 
