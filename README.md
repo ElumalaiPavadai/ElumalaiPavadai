@@ -5,7 +5,7 @@ __Expertise: Computational Chemistry | Drug Design | Cheminformatics | Machine L
 
 Results-oriented Computational Drug Discovery Scientist with 10+ years of experience in leveraging computational approaches to accelerate the drug discovery process. Proven track record in applying computational chemistry, cheminformatics, and machine learning, Bioinformatics techniques to identify promising drug candidates and optimize lead compounds. Passionate about utilizing cutting-edge technologies to tackle complex challenges in drug discovery and development
 
-__Skills and Proficiencies__
+### __Skills and Proficiencies__
 
 Computational Chemistry: Extensive experience in molecular modeling, dockings, simulations, ligand and strcuture-based drug discovery approaches. Proficient in utilizing various software packages such as Schrödinger, MOE, Discovery Studio, etc.
 
@@ -24,15 +24,4 @@ You can find my publications on Google Scholar https://scholar.google.co.za/cita
 __Let's Connect!__
 
 I'm eager to collaborate on exciting drug discovery projects. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/elumalai-pavadai/
-
-
-__Some of my work was featured on the cover of the journals__
-
-<div style="display: flex; justify-content: space-around;"> 
-  <img src="images/1.jpg" alt="Image 1 Description" width="300">
-  <img src="images/2.jpg" alt="Image 2 Description" width="300">
-  <img src="images/3.jpg" alt="Image 3 Description" width="300">
-  <img src="images/4.gif" alt="Image 4 Description" width="300">
-</div>
-
 
